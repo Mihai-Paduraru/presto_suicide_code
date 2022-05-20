@@ -1,0 +1,16 @@
+/* Import Bootstrap CSS */
+@import '~bootstrap/dist/css/bootstrap';
+/* Import Fontawesome CSS */
+@import '~@fortawesome/fontawesome-free/css/all';
+/* Import Swiper CSS */
+@import 'swiper/css/bundle';
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,300;0,400;0,500;0,700;1,300&display=swap');
+/* Import Dropzone CSS */
+@import '~dropzone/dist/basic';
+@import '~dropzone/dist/dropzone';
+/* Import Flag Icon CSS */
+@import '~flag-icon-css/css/flag-icons';
+/* Import Custom CSS */
+@import './style.css';
